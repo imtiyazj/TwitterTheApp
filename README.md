@@ -1,8 +1,8 @@
-# Project 3 - *Twitter The App*
+# Project 3 - Twitter The App
 
 **Twitter The App** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com).
 
-Time spent: **24** hours spent in total
+Time spent: **30** hours spent in total
 
 ## User Stories
 
