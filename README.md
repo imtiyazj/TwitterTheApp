@@ -41,7 +41,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+Direct link to the demo https://i.imgur.com/snEyAsa.mp4
+<br />
 <img src='https://i.imgur.com/snEyAsa.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
