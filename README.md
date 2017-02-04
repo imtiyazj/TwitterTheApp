@@ -14,9 +14,9 @@ The following **required** functionality is completed:
 - [X] User can pull to refresh.
 - [X] User can compose a new tweet by tapping on a compose button.
 - [X] User can tap on a tweet to view it, with controls to retweet, favorite, and reply.
-- [X] Hamburger menu - implemented as tab bar control
-   - [ ] NA ~~Dragging anywhere in the view should reveal the menu.~~
-   - [X] The menu should include links to your profile, the home timeline, and the mentions view.
+- [X] Tab Bar
+   - [X] Use a `UITabBarController`
+   - [X] The tab bar should include links to your profile, the home timeline, and the mentions view.
 - [X] Profile page
    - [X] Contains the user header view (implemented as a custom view)
    - [X] Contains a section with the users basic stats: # tweets, # following, # followers
@@ -41,8 +41,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Direct link to the demo https://i.imgur.com/snEyAsa.mp4
-<br />
+Direct link to Video walkthrough: https://i.imgur.com/snEyAsa.mp4
+
 <img src='https://i.imgur.com/snEyAsa.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
